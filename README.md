@@ -1,2 +1,2 @@
 # coronaproject
-Python class to deal with and analyse corona data sets
+Python class to deal with and analyse Coronavirus data sets
